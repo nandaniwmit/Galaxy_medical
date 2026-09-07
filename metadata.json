@@ -1,0 +1,6 @@
+{
+  "name": "Galaxy Medical",
+  "description": "Trusted pharmacy in Aurangabad, Bihar providing genuine medicines, healthcare devices, and surgical supplies with WhatsApp order and fast local delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
